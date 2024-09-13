@@ -8,9 +8,6 @@ C# Programming: Familiar with object-oriented programming (OOP) and the principl
 SDK Integration: Experience working with UnityAds SDK for monetization and ad management in games.
 Version Control: Familiar with GitHub for managing and collaborating on projects.
 
-<h3>💡 Why Game Development?</h3>
-I've always been fascinated by how games function behind the scenes, especially when interacting with in-game mechanics. 
-
 <h3>🌱 Continuous Learning:</h3>
 Constantly enhancing my programming skills and deepening my knowledge in game development.
 Level B1 English (Intermediate), working to improve my proficiency for better communication and understanding more technical documentation.
