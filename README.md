@@ -19,6 +19,9 @@ Level B1 English (Intermediate), working to improve my proficiency for better co
 Goal-oriented and dedicated to delivering high-quality game experiences.
 Passionate about solving problems and finding creative solutions in game development.
 
+<h3>💡 Why Game Development?</h3>
+I've always been fascinated by how games function behind the scenes, especially when interacting with in-game mechanics. 
+
 <!---
 Slyzzep/Slyzzep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
