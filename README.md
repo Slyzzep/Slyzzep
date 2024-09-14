@@ -3,7 +3,7 @@
 I’m a  Unity C# game developer with over a year of non-commercial experience. My journey into game development began with a curiosity about how games work under the hood, leading me to develop a strong interest in coding and game mechanics.
 
 <h3>🔧 Skills and  Experience:</h3>
-Unity: Having expirience in creating 2D/3D games, with a basic understanding of Unity’s physics, animations, and UI systems.
+Unity: Having experience in creating 2D/3D games, with a basic understanding of Unity’s physics, animations, and UI systems.
 C# Programming: Familiar with object-oriented programming (OOP) and the principles of SOLID.
 SDK Integration: Experience working with UnityAds SDK for monetization and ad management in games.
 Version Control: Familiar with GitHub for managing and collaborating on projects.
