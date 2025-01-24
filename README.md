@@ -1,6 +1,6 @@
 <h1>👋 Hi, I’m Volodymyr</h1>
 
-I’m a  Unity C# game developer with over a year of non-commercial experience. My journey into game development began with a curiosity about how games work under the hood, leading me to develop a strong interest in coding and game mechanics.
+I’m a  Unity C# game developer with over two years of non-commercial experience. My journey into game development began with a curiosity about how games work under the hood, leading me to develop a strong interest in coding and game mechanics.
 
 <h3>🔧 Skills and  Experience:</h3>
 Unity: Having experience in creating 2D/3D games, with a basic understanding of Unity’s physics, animations, and UI systems.
